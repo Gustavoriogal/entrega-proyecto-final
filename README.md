@@ -1,8 +1,11 @@
 Proyecto Adopt Me
 
 Este es el proyecto Adopt Me, una aplicación para gestionar las adopciones de mascotas.
+
 Endpoints
+
 Adopciones
+
 Obtener todas las adopciones
 
 GET /adoptions
@@ -16,6 +19,7 @@ Crear una adopcion
 POST /adoptions/:uid/:pid
 
 Usuarios
+
 Obtener todos los usuarios
 
 GET /users
@@ -33,6 +37,7 @@ Eliminar un usuario
 DELETE /users/:uid
 
 Mascotas
+
 Obtener todas las mascotas
 
 GET /pets
